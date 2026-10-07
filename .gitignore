@@ -1,0 +1,10 @@
+bin/
+obj/
+artifacts/
+.vs/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+payload/MeshAgent.exe

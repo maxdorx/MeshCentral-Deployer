@@ -1,0 +1,4 @@
+#include "resource.h"
+1 RT_MANIFEST "setup.manifest"
+IDR_SERVICE RCDATA "MeshCentral.Deployer.Service.exe"
+IDR_RUNNER  RCDATA "MeshCentral.Deployer.RemoteRunner.exe"
